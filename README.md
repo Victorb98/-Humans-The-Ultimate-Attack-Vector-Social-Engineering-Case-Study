@@ -1,7 +1,7 @@
 # 🛡🧐Humans The Ultimate Attack-Vector Social-Engineering Case-Study
 
 Human error is not a small part of cybersecurity  
-It is the battlefield  
+It is the battlefield. 
 This project explores how attackers target people, why humans remain the weakest link, and how security teams can detect and mitigate these attacks.  
 It combines a portfolio case study with an educational breakdown designed to show clear communication and SOC-level thinking.
 
